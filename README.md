@@ -1,9 +1,13 @@
 # Pocketmine-MP plugins
 Plugin repository for Minecraft Bedrock Edition server version v1.16.x
 
-PocketMine-MP version 3.19.1
+#### BIG thanks to Poggit and PocketMine-MP active community members for their love, devotion and alternative mindset!
+
+## PocketMine-MP version 3.19.1
 and previous PocketMine-MP 1.19.x API version 3.x
 (see branches for older versions)
+
+---
 
 - [x] AntiVoid 1.1.0 | https://poggit.pmmp.io/p/AntiVoid/1.1.0
 - [x] BlockSniper 3.2.3 | https://poggit.pmmp.io/ci/BlockHorizons/BlockSniper/BlockSniper
@@ -26,9 +30,6 @@ and previous PocketMine-MP 1.19.x API version 3.x
 - [ ] WarpUI 3.3.1 | https://poggit.pmmp.io/p/WarpUI
 - [x] Worlds v3.0.7 | https://github.com/survanetwork/Worlds/issues
 
-Check out older branches for previous PMMP API versions
-[ ] = no problems loading but still testing or not checked with latest client
+[ ] = no problems loading but still testing or not checked with latest server/client
 
 ---
-
-Big thanks to Poggit and PocketMine-MP community!
