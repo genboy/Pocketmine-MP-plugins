@@ -1,7 +1,7 @@
 # Pocketmine-MP plugins
 Plugin repository for Minecraft Bedrock Edition server version v1.16.x
 
-#### BIG thanks to Poggit and PocketMine-MP active community members for their love, devotion and alternative mindset!
+#### BIG thanks to Poggit and PocketMine-MP active community members for their devotion and alternative mindset!
 
 ## PocketMine-MP version 3.19.1
 and previous PocketMine-MP 1.19.x API version 3.x
